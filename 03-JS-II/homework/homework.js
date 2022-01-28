@@ -212,6 +212,8 @@ function doWhile(numero) {
   return numero;
 }
 
+// Tarea 03-JS Finalizada
+
 // No modificar nada debajo de esta línea
 // --------------------------------
 
