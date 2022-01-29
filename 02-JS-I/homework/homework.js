@@ -239,7 +239,7 @@ function esVocal(letra){
     }
 }
 
-// tarea terminada 02 - JS
+// tarea terminada 02 - 
 
 // No modificar nada debajo de esta línea
 // --------------------------------
